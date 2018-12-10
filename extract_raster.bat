@@ -1,0 +1,1 @@
+%~dp0\php.exe -q %~dp0\extract_raster.php %*
